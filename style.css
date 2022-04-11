@@ -102,3 +102,61 @@ text-align: center;
   gap: 50px;
   margin-top: 50px;
 }
+
+
+/*BREAK BREAK BREAK BREAK BREAK BREAK */ 
+
+
+.project-list {
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 100px;
+
+}
+
+a:link {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+
+/*BREAK BREAK BREAK BREAK BREAK BREAK */ 
+
+
+.journey1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  flex-direction: column;
+}
+
+.journey2 {
+  margin-left: 450px;
+  margin-right: 450px;
+}
+
+.journey3 {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin-top: 100px;
+}
+
+footer {
+  background-color: blanchedalmond;
+  height:100px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+}
+
+.footer-text {
+  color: blue;
+}
+
