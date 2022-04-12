@@ -269,7 +269,7 @@ a:hover {
 }
 
 footer {
-  background-color: blanchedalmond;
+  background-color: #ED662C;
   height:100px;
   display:flex;
   justify-content: center;
@@ -279,7 +279,7 @@ footer {
 }
 
 .footer-text {
-  color: blue;
+  color: rgb(255, 255, 255);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 17px;
 }
@@ -333,3 +333,28 @@ footer {
   transform: translateX(-100%); 
   }
  }
+
+ .horizontal-snap {
+  margin: 0 auto;
+  display: grid;
+  grid-auto-flow: column;
+  gap: 1rem;
+  height: calc(180px + 1rem);
+  padding: 1rem;
+  max-width: 1000px;
+  overflow-y: auto;
+  overscroll-behavior-x: contain;
+  scroll-snap-type: x mandatory;
+  background-color: #000000;
+}
+
+.horizontal-snap > a {
+  scroll-snap-align: center;
+}
+
+.horizontal-snap img {
+  width: 180px;
+  max-width: none;
+  object-fit: contain;
+  border-radius: 1rem;
+}
