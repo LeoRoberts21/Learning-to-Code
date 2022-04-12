@@ -85,7 +85,7 @@ margin-top: 100px;
 }
 
 .leo {
-  transform: rotate(180deg);
+  -webkit-transform: rotate(-90deg);
 }
 
 .socials {
@@ -94,6 +94,10 @@ margin-top: 100px;
   align-items: center;
   justify-content: center;
   margin-right: 100px;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+gap: 30px;
 }
 
 .down {
@@ -198,6 +202,7 @@ margin-bottom: 15px;
 
 .selftext {
   font-size: 17px;
+  line-height: 25px;
  /*for editing the text next to my picture */ 
 }
 
@@ -250,6 +255,7 @@ a:hover {
   margin-right: 450px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 17px;
+  line-height: 25px;
 }
 
 .journey3 {
@@ -283,6 +289,8 @@ footer {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 17px;
 }
+
+/* BREAK BREAK BREAK BREAK BREAK BREAK */
 
 .scroll-fast {
   height: 100px;	
@@ -381,3 +389,5 @@ font-family: Arial, Helvetica, sans-serif;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 17px;
 }
+
+/* BREAK BREAK BREAK BREAK BREAK BREAK */
