@@ -232,10 +232,15 @@ a:link {
   text-decoration: none;
 }
 
+a:visited { 
+  text-decoration: none; 
+  color: #000000;
+ }
+
 a:hover {
   color: #ED662C;
+    background-color: transparent;
 }
-
 
 /*BREAK BREAK BREAK BREAK BREAK BREAK */ 
 
