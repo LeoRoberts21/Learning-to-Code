@@ -1,7 +1,7 @@
 body {
     background-color: #fffdf5;
   }
-  
+
   
   .nav-bar {
       display: flex;
@@ -133,7 +133,7 @@ body {
        line-height: 25px;
        display: flex;
        justify-content: center;
-    margin-bottom: 20px;
+    margin-bottom: 20pxpx;
     margin-top: 100px;
     gap: 50px;
 }
