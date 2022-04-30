@@ -96,6 +96,7 @@ body {
   .selftext {
     font-size: 17px;
     line-height: 25px;
+    max-width: 700px;
   }
 
  /* BREAK BREAK BREAK BREAK BREAK*/
@@ -187,6 +188,12 @@ footer {
   line-height: 25px;
   font-weight: bold;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   margin-top: 50px;
+  gap: 500px;
 }
+
+
+
+
+
