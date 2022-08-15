@@ -1,5 +1,5 @@
 
-# DoughMother Bakery Site
+# Learning to Code
 
 The final outcome of a self-initiated university project. The project documented my learning of code through lots of little projects compiled into a final website.
 
