@@ -1,25 +1,25 @@
 
 # DoughMother Bakery Site
 
-A self-initiated project for university, documenting the design and development of a wesbite for DoughMother bakery in Beeston. I plan to use html, scss, and a bit of javascript for the first time. I also want to explore using bootstrap as a way to make the site responsive.
+The final outcome of a self-initiated university project. The project documented my learning of code through lots of little projects compiled into a final website.
 
 ## Project Status
 
-Finished
+Finished but is not responsive
 
 ## Project Screen Shot(s)
 
 ## How to access
 
-https://leoroberts21.github.io/DoughMother/main.html
+https://leoroberts21.github.io/Learning-to-Code/
 
 ## Reflection
 
-A university project, I wanted to find a local business and see if I could code them a website to increase their internet presence.
+A university project, I wanted to learn to code so I could build the websites I've designed.
 
-I wanted to build a site that was on bran and felt like an extension of their already existing company.
+I built a multi page website, designed in figma, built in vsCode.
 
-The biggest challenge I faced during this project was making it responsive. It was the first time I'd done this.
+I faced a lot of little hurdles having never coded before. I learnt so much from these challenges.
 
 ## Tools Used 
 
